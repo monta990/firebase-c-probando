@@ -1,0 +1,9 @@
+C:\Users\Luis\Source\Repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\Luis\Source\Repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\Luis\Source\Repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\Luis\Source\Repos\ConsoleApp6\ConsoleApp6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luis\Source\Repos\ConsoleApp6\ConsoleApp6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luis\Source\Repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Source\Repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Source\Repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\Luis\Source\Repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
